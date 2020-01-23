@@ -5,7 +5,7 @@ It is similar to the Caesar cipher. It simply takes a character of the latin alp
 
 e.g. the quick brown fox jumps over the lazy dog ---> gur dhvpx oebja sbk whzcf bire gur ynml qbt
 
-You can use it as well to decrypt a message, by using it in the sasme way. For example:
+You can use it as well to decrypt a message, by using it in the same way. For example:
       gur dhvpx oebja sbk whzcf bire gur ynml qbt --->  the quick brown fox jumps over the lazy dog
       
       
